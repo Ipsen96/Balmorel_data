@@ -1,8 +1,7 @@
 SET GDATASET 'Generation technology data'                                                                                                                      
 /                                                                                                                                                              
 GDTYPE                                    'Generation type'                                                                                                    
-GDFUEL                                                                                                                                                         
-GDCV                                                                                                                                                           
+GDFUEL                                                                                                                                                                                                                                                                          
 GDCB                                      'Cb-value for CHP'                                                                                                   
 GDFE                                      'Fuel efficiency'                                                                                                    
 GDDESO2                                   'Degree of desulphoring'                                                                                             
